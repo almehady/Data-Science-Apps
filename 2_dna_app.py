@@ -8,7 +8,7 @@ st.image(image, use_column_width=True)
 st.write(
     """
     # DNA Nucleotide Count Web App
-    This app counts cunleotide composition of query DNA!
+    This app counts nucleotide composition of query DNA!
     """
 )
 st.header('Enter DNA Seqence')
